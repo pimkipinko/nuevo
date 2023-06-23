@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 group-title="España",MUNDOTORO TV FHD 
+http://351446361285441850.omore.xyz:80/play/vi1010307/2004025452/441850.ts 
+https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png
+#EXTINF:-1 group-title="España",MUNDOTORO TV HD 
+http://351446361285441851.omore.xyz:80/play/vi1010307/2004025452/441851.ts
+https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png
+#EXTINF:-1 group-title="España",MUNDOTORO TV SD 
+http://351446361285441852.omore.xyz:80/play/vi1010307/2004025452/441852.ts
+https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png
+#EXTINF:-1 group-title="Deportes España",DAZN LaLiga FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:E5:24&stream=986639&extension=ts&play_token=mlJMDqY8K4
+https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg
+#EXTINF:-1 group-title="Deportes España" ",LaLiga TV FHD
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=303297&extension=ts&play_token=CBil8VNbyO
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1384px-LaLiga.svg.png
+#EXTINF:-1 group-title="Deportes España",SuperSport LaLiga FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=33507&extension=ts&play_token=hY79tjl8gW
+https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg
+#EXTINF:-1 group-title="Deportes España" ",SuperSport LaLiga FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=39406&extension=ts&play_token=BUOEVNLzqW
+https://icdb.tv/images/a8a882fb16572f8d4c1980b75b27201d.jpg
+#EXTINF:-1 group-title="Deportes España" ",Movistar LaLiga 1 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361400&extension=ts&play_token=zaDNQesZPg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png
+#EXTINF:-1 group-title="Deportes España" ",Movistar LaLiga 2 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361404&extension=ts&play_token=u45yaclqe8
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png
+#EXTINF:-1 group-title="Deportes España" ",Movistar LaLiga 3 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361406&extension=ts&play_token=jRmUF8p36V
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png
+#EXTINF:-1 group-title="Deportes España" ",Movistar LaLiga 4 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=361408&extension=ts&play_token=IsXSnXQ98
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1024px-Movistar_LaLiga.svg.png
