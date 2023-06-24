@@ -96,6 +96,20 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1138
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1137
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/naturetime.png", Nature Time
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298751
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png", Rakuten MyTime movie network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://blog.phonehouse.es/wp-content/uploads/2022/04/peliculas-de-accion-rakuten-tv-1621956288.png", Rakuten Accion
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutencomedia.png", Rakuten Comedy
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenenfamilia.png", Rakuten TV Family
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenspotlight.png",Rakuten Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.elgrupoinformatico.com/static/Noticias/2021/04/rakuten-tv-free-susc-1200x675.jpg", Rakuten Top Free
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.chillglobal.com/images/channels/rsz-rakuten-logo-1511689665.jpg", Rakuten TV Shows
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.syfy.es/sites/default/files/syfy_negro.jpg", SYFY
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1135
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg", TCM
