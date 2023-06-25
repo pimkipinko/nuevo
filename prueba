@@ -192,5 +192,25 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298805
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298808
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", Movistar Liga De Campeones 7
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146661
+#EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://medias.lenodal.com/medias/photos/original/2023/canal-13_02_23c-canalsportsclub.jpg", SPORT CLUB
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://cdn.mitvstatic.com/programs/br_soccer-botafogo-tv_p_m.jpg", BOTAFOGO TV (NO 24/7)
+https://ythls.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
+#EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.imgur.com/E6pLvOV.png", TNT Sports 2 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.imgur.com/LFSMbpN.png", TNT Sports 3 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.imgur.com/Am70nWY.png", TNT Sports 4 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.imgur.com/XA3zxEE.png", TNT Sports 5 Brazil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/l5PBcKN.png", TVMatic Fight
+http://cdn.tvmatic.net/fight.m3u8
 
 
