@@ -2,8 +2,6 @@
 
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png", #0
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2146
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png", #VAMOS
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2148
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png", Alquiler 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/12107
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png", Alquiler 2
@@ -34,8 +32,6 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1172
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298734
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png", AXN White
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1171
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.futbollibretv.live/wp-content/uploads/2022/06/beIN-SPORTS-en-Espanol.jpg", beIN Sports Xtra en Espanol
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281493
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/6/7/8/blaze-canal.jpg", Blaze
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5303
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://0701.static.prezi.com/preview/v2/2hbnkgkkaepci57s24qwh2y2y36jc3sachvcdoaizecfr3dnitcq_1_0.png", Calle 13
@@ -122,4 +118,79 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1132
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298814
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://i1.sndcdn.com/avatars-000099408742-krqe5h-t240x240.jpg", XTRM
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11148
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png", #VAMOS
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2148
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png", beIN Sports Xtra Espanol
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281493
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DAZN_logo_new.svg/2048px-DAZN_logo_new.svg.png", DAZN 1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/64711
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DAZN_logo_new.svg/2048px-DAZN_logo_new.svg.png", DAZN 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/64712
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DAZN_logo_new.svg/2048px-DAZN_logo_new.svg.png", DAZN 4
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/269911
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DAZN_logo_new.svg/2048px-DAZN_logo_new.svg.png", DAZN F1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1672
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DAZN_logo_new.svg/2048px-DAZN_logo_new.svg.png", DAZN LaLiga 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298745
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/800px-Espn_deportes.svg.png", ESPN
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/90708
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/800px-Espn_deportes.svg.png", ESPN 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281480
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/800px-Espn_deportes.svg.png", ESPN 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281403
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://www.coolstreaming.us/img/ch/image79890987976.jpg", Esport 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/7445
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", EUROSPORT 1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1160
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png", EUROSPORT 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1159
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://w7.pngwing.com/pngs/773/988/png-transparent-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-television-emblem-text.png", FOX SPORTS 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/89723
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg", Gol
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1156
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png", Gol Play
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297246
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/jpg/1/9/1655281910291.jpg", Laliga Smartbank TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297788
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/jpg/1/9/1655281910291.jpg", Laliga Smartbank TV 1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297791
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/jpg/1/9/1655281910291.jpg", Laliga Smartbank TV 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297790
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://cope-cdnmed.agilecontent.com/resources/jpg/1/9/1655281910291.jpg", Laliga Smartbank TV 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297789
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://futbar.com/logos/laliga_white_logo.png", LaLiga TV Bar
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197711
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/800px-Ellas_V_por_Movistar_Plus%2B.svg.png", M+ Ellas
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297242
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png", Movistar Deportes
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/227121
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png", Movistar Deportes 5
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/285690
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png", Movistar Deportes 6
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/198066
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png,ES: MOVISTAR Golf
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1142
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png", MOVISTAR La Resistencia
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/286800
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png", MOVISTAR LaLiga
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1141
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png", MOVISTAR LaLiga 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5311
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png", MOVISTAR LaLiga 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281772
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png", MOVISTAR LaLiga 4
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/269466
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/2560px-Movistar_LaLiga.svg.png", MOVISTAR LaLiga 5
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281792
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", MOVISTAR LIGA DE CAMPEONES
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2800
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", MOVISTAR LIGA DE CAMPEONES 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/81096
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", Movistar Liga De Campeones 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298805
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", Movistar Liga De Campeones 6
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298808
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", Movistar Liga De Campeones 7
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146661
+
 
