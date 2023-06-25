@@ -110,6 +110,8 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.chillglobal.com/images/channels/rsz-rakuten-logo-1511689665.jpg", Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutendrama.png", Rakuten Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.syfy.es/sites/default/files/syfy_negro.jpg", SYFY
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1135
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://brandemia.org/sites/default/files/inline/images/tcm_logo_portada.jpg", TCM
@@ -120,3 +122,4 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1132
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298814
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://i1.sndcdn.com/avatars-000099408742-krqe5h-t240x240.jpg", XTRM
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11148
+
