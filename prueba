@@ -330,3 +330,14 @@ https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png", beIN SPORTS XTRA en español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+#EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png", 1.UFC FIGHT PASS FHD
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
+#EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",2.UFC FIGHT PASS FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=206942&extension=ts&play_token=GCslZL1uNr
+#EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",3.UFC FIGHT PASS FHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extension=ts&play_token=BGkfLwnUBH
+#EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",4.UFC FIGHT PASS FHD
+http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
+#EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",5.UFC FIGHT PASS FHD
+
+
