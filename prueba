@@ -212,6 +212,8 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.imgur.com/l5PBcKN.png", TVMatic Fight
 http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.ibb.co/0CZV7Sx/SPORTV.png", SPORTV
+http://xcui.vitvabc.xyz:8880/287994016291/287994016291/16753
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i.imgur.com/9oyc88J.png",Adventure Sports TV [Not 24/7]
