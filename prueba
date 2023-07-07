@@ -188,6 +188,36 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298805
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298808
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://boxtvmania.files.wordpress.com/2018/07/movistar_liga_de_campeones.png", Movistar Liga De Campeones 7
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146661
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM1.png",BEIN SPORTS PREMIUM 1 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=10
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM2.png",BEIN SPORTS PREMIUM 2 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=11
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM3.png",BEIN SPORTS PREMIUM 3 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=12
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/beinsport1.png",BEIN SPORTS 1 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=13
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT2.png",BEIN SPORTS 2 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=14
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT3.png",BEIN SPORTS 3 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=15
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT4.png",BEIN SPORTS 4 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=16
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT5.png",BEIN SPORTS 5 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=17
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT6.png",BEIN SPORTS 6 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=18
+
+#EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT7.png",BEIN SPORTS 7 SD
+https://youtube-dl-online.angelokh.repl.co/airmax?id=19
 #EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 2
