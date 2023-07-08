@@ -114,6 +114,7 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1132
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298814
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://i1.sndcdn.com/avatars-000099408742-krqe5h-t240x240.jpg", XTRM
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11148
+
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png", #VAMOS
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2148
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://tuneliveradio.net/wp-content/uploads/2021/11/beIN-SPORTS-XTRA-en-Espanol-200x200.png", beIN Sports Xtra Espanol
@@ -191,33 +192,25 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/146661
 
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM1.png",BEIN SPORTS PREMIUM 1 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=10
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM2.png",BEIN SPORTS PREMIUM 2 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=11
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-PREMIUM3.png",BEIN SPORTS PREMIUM 3 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=12
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/beinsport1.png",BEIN SPORTS 1 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=13
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT2.png",BEIN SPORTS 2 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=14
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT3.png",BEIN SPORTS 3 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=15
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT4.png",BEIN SPORTS 4 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=16
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT5.png",BEIN SPORTS 5 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=17
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT6.png",BEIN SPORTS 6 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=18
-
 #EXTINF:-1 group-title="Deportes Arabia Saudi" tvg-logo="http://logo.protv.cc/picons/logos/BEINGROUP/BEIN-SPORT7.png",BEIN SPORTS 7 SD
 https://youtube-dl-online.angelokh.repl.co/airmax?id=19
+
 #EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 group-title="Deportes Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png", TNT SPORTS 2
@@ -240,46 +233,33 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.ibb.co/0CZV7Sx/SPORTV.png", SPORTV
 http://xcui.vitvabc.xyz:8880/287994016291/287994016291/16753
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",2.Sky Sports Main Event UHD
+
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",2.Sky Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=JJIj9TgyKk
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",3.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",3.Sky Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=255102&extension=ts&play_token=JsvCAPWIYe
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",4.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",4.Sky Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=255102&extension=ts&play_token=9V0iI5GbrE
-
-#EXTINF:-1,group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",5.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",5.Sky Sports UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",6.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",6.Sky Sports UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1299719&extension=ts&play_token=pQ2xPxqCDv
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",7.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",7.Sky Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",8.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",8.Sky Sports UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&extension=ts&play_token=inv5ZqpPfR
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",9.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",9.Sky Sports UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",10.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",10.Sky Sports UHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",11.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",11.Sky Sports UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",12.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",12.Sky Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=Y8BoswZibD
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",13.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",13.Sky Sports UHD
 http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
-
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",14.Sky Sports Main Event UHD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",14.Sky Sports UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
-
-
 
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
@@ -407,6 +387,7 @@ http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=206942&exten
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extension=ts&play_token=BGkfLwnUBH
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",4.UFC FIGHT PASS FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
+
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
 
