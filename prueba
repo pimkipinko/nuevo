@@ -402,3 +402,6 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extensi
 #EXTINF:-1 group-title="Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
 
+
+#EXTINF:-1 group-title="Guinea Ecuatorial TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/4d/24/fa4d2425-177f-fbd5-b0de-5c9095b9dfa4/pr_source.jpg/1200x600wa.png", TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
