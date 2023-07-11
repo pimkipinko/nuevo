@@ -245,32 +245,51 @@ http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.ibb.co/0CZV7Sx/SPORTV.png", SPORTV
 http://xcui.vitvabc.xyz:8880/287994016291/287994016291/16753
 
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",2.Sky Sports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=JJIj9TgyKk
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",3.Sky Sports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=255102&extension=ts&play_token=JsvCAPWIYe
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",4.Sky Sports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:30:31:61&stream=255102&extension=ts&play_token=9V0iI5GbrE
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",5.Sky Sports UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",6.Sky Sports UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1299719&extension=ts&play_token=pQ2xPxqCDv
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",7.Sky Sports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C6:6C:D2&stream=255102&extension=ts&play_token=fkNID6BAqQ
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",8.Sky Sports UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&extension=ts&play_token=inv5ZqpPfR
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",9.Sky Sports UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",10.Sky Sports UHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",11.Sky Sports UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:A7:1A&stream=514345&extension=ts&play_token=OBi3eWXqCw
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",12.Sky Sports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:35:67:13&stream=1552954&extension=ts&play_token=Y8BoswZibD
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",13.Sky Sports UHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=1552954&extension=ts&play_token=lByrhTs3UD
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sky_Sport_UHD_DE_Logo_09_2020.png",14.Sky Sports UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 1 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2126&extension=ts&play_token=a0K8UcWHUw
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 2 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2125&extension=ts&play_token=JTbRVK6IVJ
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 3 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2124&extension=ts&play_token=zX9ooz43zd
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 4 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1922&extension=ts&play_token=04wxobEGpT
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png",BT Sportss ESPN FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sports Main Event FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255102&extension=ts&play_token=Tkd8tpMXwB
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/02_Football.png",Sky Sports Football FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255104&extension=ts&play_token=XuD8NsRQqR
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/01_PL-2.png",Sky Sports Premier L FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/07_Golf.png",Sky Sports Golf FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255103&extension=ts&play_token=XycWWKtc3O
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/06_Racing.png",Sky Sports Racing FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255097&extension=ts&play_token=pS17zrmBcR
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaPlay Sports 1 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaPlay Sports 2 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaPlay Extra FHD
+http://servi-jules.net:2052/live/SyntAXResHarestrEAms6373834/gh6587JHa43CvB/753907.m3u8
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BBC_One_logo.svg/1000px-BBC_One_logo.svg.png",BBC ONE FHD
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71399&extension=ts&play_token=2JCVbfMtIN
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1841px-BBC_Two.svg.png",BBC TWO FHD
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71397&extension=ts&play_token=x0DivRfPN5
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",Sky Sport F1 FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",Sky Sport F1 FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=255105&extension=ts&play_token=dqFQh58fZZ
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",3.Sky Sport F1 FHD
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71555&extension=ts&play_token=6rCllY0ScD
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png",EuroSport 1 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=8339&extension=ts&play_token=clIor7Ker2
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://www.pngkit.com/png/full/146-1464169_eurosport-1.png",EuroSport 1 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:6b:96:31&stream=278612&extension=ts&play_token=ydIShg4Xih
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",EuroSport 2 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9852&extension=ts&play_token=cwdRdihniL
+#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",EuroSport 2 FHD
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71606&extension=ts&play_token=rQtYPRfIUI
+
 
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i.imgur.com/TpCkbkT.png",ACC Network
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
