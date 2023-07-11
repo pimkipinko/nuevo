@@ -245,14 +245,6 @@ http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.ibb.co/0CZV7Sx/SPORTV.png", SPORTV
 http://xcui.vitvabc.xyz:8880/287994016291/287994016291/16753
 
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 1 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2126&extension=ts&play_token=a0K8UcWHUw
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 2 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2125&extension=ts&play_token=JTbRVK6IVJ
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 3 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2124&extension=ts&play_token=zX9ooz43zd
-#EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1920px-BT_Sport_logo_2019.svg.png",BT Sports 4 FHD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1922&extension=ts&play_token=04wxobEGpT
 #EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png",BT Sportss ESPN FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg
 #EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sports Main Event FHD
@@ -411,15 +403,10 @@ https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png", 1.UFC FIGHT PASS FHD
 http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:bf:a6:84&stream=13259&extension=ts&play_token=dWtCza4q14
-#EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",2.UFC FIGHT PASS FHD
-http://raw.bitnode.pm:81/play/live.php?mac=00:1A:79:C5:08:F9&stream=206942&extension=ts&play_token=GCslZL1uNr
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",3.UFC FIGHT PASS FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extension=ts&play_token=BGkfLwnUBH
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",4.UFC FIGHT PASS FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
-
-#EXTINF:-1 group-title="Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png",3.Sky Bundesliga UHD
-http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=242541&extension=ts&play_token=ED0XxLJoLG
 
 
 #EXTINF:-1 group-title="Guinea Ecuatorial TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/4d/24/fa4d2425-177f-fbd5-b0de-5c9095b9dfa4/pr_source.jpg/1200x600wa.png", TVGE
