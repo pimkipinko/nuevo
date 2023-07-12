@@ -80,19 +80,6 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/286800
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1140
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/m/2/xmovistar-series-2.jpg.pagespeed.ic.UZVVUpKGkm.jpg", MOVISTAR Series 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1139
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV FHD
-http://28938310083441850.of913.xyz:80/play/ELA4385H2L/2626333194/441850.ts
-
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV HD
-http://28938310083441851.of913.xyz:80/play/ELA4385H2L/2626333194/441851.ts
-
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV HD (opcion2)
-http://398538678963321446.ofio.xyz:80/play/Benicarlo/Paco/321446.ts
-
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV SD
-http://28938310083441852.of913.xyz:80/play/ELA4385H2L/2626333194/441852.ts
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo-1997.jpg", NAT GEO
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1138
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo.png", NAT GEO Wild
@@ -125,6 +112,39 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1132
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298814
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://i1.sndcdn.com/avatars-000099408742-krqe5h-t240x240.jpg", XTRM
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11148
+
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png", MUNDOTORO TV FHD
+http://95099966756441850.nice511.xyz:80/play/GTCDNR9DW5/3625821374/441850.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png", MUNDOTORO TV HD
+http://95099966756441851.nice511.xyz:80/play/GTCDNR9DW5/3625821374/441851.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV HD(OPCION 2)
+http://313131368186441851.of913.xyz:80/play/HCMNP577MK/1470603756/441851.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png", MUNDOTORO TV(OPCION 3)
+http://95099966756441852.nice511.xyz:80/play/GTCDNR9DW5/3625821374/441852.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png", Mundotoro TV(OPCION 4)
+http://185.233.16.53:80/play/ff08274/2343800298/441850.ts
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV(OPCION 5)
+http://95099966756321449.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321449.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV(OPCION 6)
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV(OPCION 7)
+http://313131368186441852.of913.xyz:80/play/HCMNP577MK/1470603756/441852.ts
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV(OPCION 8)
+http://95099966756321449.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321449.ts
+#EXTINF:-1,group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png",MUNDOTORO TV(OPCION 9)
+http://313131368186321449.of913.xyz:80/play/HCMNP577MK/1470603756/321449.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE FHD
+http://972117231136321445.opword.xyz:80/play/vi1012896/5352893835/321445.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE FHD(OPCION 2)
+http://313131368186321445.of913.xyz:80/play/HCMNP577MK/1470603756/321445.ts
+#EXTINF:-1, group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE HD
+http://313131368186321446.of913.xyz:80/play/HCMNP577MK/1470603756/321446.ts
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE HD(OPCION 2)
+http://972117231136321446.opword.xyz:80/play/vi1012896/5352893835/321446.ts
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD
+http://95099966756321445.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321445.ts
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD(OPCION 2)
+http://95099966756321446.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321446.ts
 
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png", #VAMOS
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2148
