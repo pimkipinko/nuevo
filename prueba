@@ -146,7 +146,7 @@ http://972117231136321446.opword.xyz:80/play/vi1012896/5352893835/321446.ts
 http://95099966756321445.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321445.ts
 #EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD( 2)
 http://95099966756321446.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321446.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="",CMM TV
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg",CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png", #VAMOS
