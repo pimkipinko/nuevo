@@ -670,7 +670,7 @@ https://panel.dattalive.com/8976/8976/playlist.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 group-title="Argentina DTV" tvg-logo="https://4.bp.blogspot.com/--MkEycyiR3Q/VlePv_Ec3pI/AAAAAAAA-HQ/mibMnABu-ys/s1600/Logo%2BTVU.png",TVU[Not 24/7]
+#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://4.bp.blogspot.com/--MkEycyiR3Q/VlePv_Ec3pI/AAAAAAAA-HQ/mibMnABu-ys/s1600/Logo%2BTVU.png",TVU[Not 24/7]
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://i.ytimg.com/vi/EfLPHiHixCA/maxresdefault.jpg",Unirio TV
 https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
@@ -682,7 +682,7 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://w7.pngwing.com/pngs/871/962/png-transparent-vtv-uruguay-channel-10-television-channel-others-thumbnail.png",VTV[Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 group-title="Argentina Deportes & TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg",Xtrema Cine Acción
+#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg",Xtrema Cine Acción
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/canal-1-2.jpg",Xtrema Animal
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
@@ -706,7 +706,7 @@ https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/canal-1-2.jpg",Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 group-title="Argentina " tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/canal-1-2.jpg",Xtrema Retro Series
+#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/canal-1-2.jpg",Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/canal-1-2.jpg",Xtrema Series
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
