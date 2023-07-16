@@ -421,25 +421,12 @@ http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=13259&extensio
 #EXTINF:-1 group-title="Deportes Usa" tvg-logo="https://i0.wp.com/ikonfc.com/wp-content/uploads/2022/01/UFC-FightPass.png",4.UFC FIGHT PASS FHD
 http://kungtv.net:2095/play/live.php?mac=10:27:BE:2D:2D:81&stream=101217&extension=ts&play_token=hm8Di15njA
 
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/12-LN%2B.png", La Nación +
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/40-CartoonNetwork.png", Cartoon Network
-
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/41-Nick.png", Nickelodeon
-https://cutralco.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/43-DiscoveryKids.png", Discovery Kids
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/48-DiscoveryTurbo.png", Discovery Turbo
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/49-DiscoveryH%26H.png", Discovery H&H
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/51-History2.png", History 2
 http://181.78.75.11:9500/play/a010/index.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/53-AnimalPlanet.png", Animal Planet
 http://179.1.64.211:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png", Investigation Discovery (ID)
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/136-Films%26Arts.png", Film & Arts
 http://45.169.99.154:58001/play/a013/index.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/138-ComedyCentral.png", Comedy Central
@@ -448,30 +435,14 @@ http://45.169.99.154:58001/play/a00b/index.m3u8
 http://45.160.15.1:8111/play/a0ot
 #EXTINF:-1group-title="Argentina TV"  tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/76-HBO2.png", HBO 2
 http://45.160.15.1:8111/play/a0ox
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/77-HBO%2B.png", HBO Plus
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/38685
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/78-HBOFamily.png", HBO Family
 http://45.160.15.1:8111/play/a0ou
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/137-HBOXtreme.png", HBO Xtreme
 http://45.160.15.1:8111/play/a0ow
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/79-Cinemax.png", Cinemax
 http://177.93.46.167:8000/play/a020
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/82-TNTSeries.png", TNT Series
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/84-AMC.png", AMC
 http://177.53.153.21:8001/play/a039/index.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/89-StudioUniversal.png", Studio Universal
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/93-Volver.png", Volver
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/49329
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/95-ElGourmet.png", El Gourmet
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/99-HolaTV.png", Hola TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/104-Quiero.png", Quiero Música
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/30699
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/102-MusicTop.png", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://i.ytimg.com/vi/SOyzc-iOc88/hqdefault.jpg",5TV Corrientes [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 group-title="Argentina TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_13max_HD.png/160px-Logo_13max_HD.png",13Max Televisión
