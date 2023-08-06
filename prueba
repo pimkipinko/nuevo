@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg", MUNDOTORO TV 1
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg", MUNDOTORO TV 2
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg", MUNDOTORO TV 3
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 3
 http://313131368186321449.of913.xyz:80/play/HCMNP577MK/1470603756/321449.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg", Mundotoro TV 4
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 4
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg",MUNDOTORO TV 5
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 5
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg",MUNDOTORO TV 6
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 6
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg",MUNDOTORO TV 7
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 7
 http://313131368186441852.of913.xyz:80/play/HCMNP577MK/1470603756/441852.ts
-#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg",MUNDOTORO TV 8
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 8
 http://95099966756321449.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321449.ts
-#EXTINF:-1,group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg",MUNDOTORO TV 9
+#EXTINF:-1,group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 9
 http://313131368186321449.of913.xyz:80/play/HCMNP577MK/1470603756/321449.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg",MUNDOTORO TV HD
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV HD
 http://313131368186441851.of913.xyz:80/play/HCMNP577MK/1470603756/441851.ts
 #EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE FHD
 http://972117231136321445.opword.xyz:80/play/vi1012896/5352893835/321445.ts
@@ -27,17 +27,15 @@ http://313131368186321445.of913.xyz:80/play/HCMNP577MK/1470603756/321445.ts
 #EXTINF:-1, group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE HD
 http://313131368186321446.of913.xyz:80/play/HCMNP577MK/1470603756/321446.ts
 #EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE HD
-(O2)
+(2)
 http://972117231136321446.opword.xyz:80/play/vi1012896/5352893835/321446.ts
 #EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD
 http://95099966756321445.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321445.ts
-#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD( 2)
+#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD(2)
 http://95099966756321446.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321446.ts
 #EXTINF:-1 group-title="Toros TV" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg",CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
-#EXTINF:-1 group-title="Premiun España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png", #0
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2146
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png", Alquiler 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/12107
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png", Alquiler 2
@@ -149,19 +147,18 @@ http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298814
 #EXTINF:-1 group-title="Premiun España" tvg-logo="https://i1.sndcdn.com/avatars-000099408742-krqe5h-t240x240.jpg", XTRM
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/11148
 
-#EXTINF:-1 group-title="TDT España" tvg-logo="",La 1
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",La 1 Canarias
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",La 1 Canarias
 https://ztnr.rtve.es/ztnr/5190066.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",La 2
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",La 2 Canarias
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",La 2 Catalunya
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",7 Televisión de Murcia
-https://ythls.onrender.com/channel/UCXi-7dpQ1mnf8kxIVCe9mCA.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",8 La Marina TV
+
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=7d8f92&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2F8lamarina.png",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="",8 TV Catalunya
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
@@ -640,7 +637,8 @@ https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR
 #EXTINF:-1 group-title="TDT España" tvg-logo="",Zafra TV 
 https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
 
-
+#EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png", #0
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2146
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png", #VAMOS
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2148
 #EXTINF:-1 group-title="Deportes España" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DAZN_logo_new.svg/2048px-DAZN_logo_new.svg.png", DAZN 1
