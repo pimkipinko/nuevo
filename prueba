@@ -157,81 +157,69 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Antena_3_logo_1997.png/190px-Antena_3_logo_1997.png",Antena 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1173
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.cecamagan.com/sites/default/files/2021-06/cuatro-al-dia.jpg",cuatro
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1163
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/200px-Telecinco.svg.png",Telecinco
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1133
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_la_sexta_antes-2.jpg",La Sexta
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1152
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://w7.pngwing.com/pngs/37/212/png-transparent-telemadrid-hd-logo.png",Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=7d8f92&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2F8lamarina.png",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/8tv_logo.jpg",8 TV Catalunya
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="https://9laloma.tv/wp-content/uploads/2016/12/cropped-LOGO-EN-NEGRO_web.png",9 la Loma TV
 https://9laloma.tv/live.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="https://jarrion.eus/media/photologue/photos/cache/28-ka-irra_presentation.png",28 kanala[Geo-blocked]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://jarrion.eus/media/photologue/photos/cache/28-ka-irra_presentation.png",28 kanala
 https://5940924978228.streamlock.net/8157/8157/master.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="https://poligonoindustrialantequera.com/wp-content/uploads/2021/05/101-TV.png",101TV Málaga[Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://poligonoindustrialantequera.com/wp-content/uploads/2021/05/101-TV.png",101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",3/24
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://img.ccma.cat/multimedia/png/4/8/1619527163084.png",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Afortunadas TV
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.afortunadastv.com/wp-content/uploads/2022/02/wall-min-756x401.png",Afortunadas TV
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Alacantí TV[Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/alacanti-tv-en-directo.png",Alacantí TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Alcarria TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png",Alcarria TV
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",À Punt
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/1071px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",À Punt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Aragón TV
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.huesca-filmfestival.com/wp-content/uploads/2017/03/logo-aragontv@2x.png",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",A3Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Axarquía TV
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://bych.es/wp-content/uploads/2020/03/101TV.jpg",Axarquía TV
 https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Bailén TV[Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://bailen.tv/wp-content/uploads/2020/07/Logo-Bailen-TV-sin-fondo-azul-e1595882081230.png",Bailén TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Barça TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="" ,betevé
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Beteve
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://graffica.info/wp-content/uploads/2017/01/beteve-imagen-destacada.jpg",Beteve
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Biosfera TV
-https://tvdatta.com:3021/live/biosferatvlive.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Boing Spain
-http://149.62.177.157:8000/play/a010
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Bon Dia TV
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bon_Dia_TV_2021.jpg",Bon Dia TV
 https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Burriana TV
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.burrianateve.com/wp-content/uploads/2020/02/BTV-logo-web.png",Burriana TV
 https://www.burrianateve.com/hls/btv.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Cadena Elite[Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 1 Mar Menor-Torre Pacheco
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/c1mm.png",Canal 1 Mar Menor-Torre Pacheco
 https://directo.tuwebtv.es/canal1.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 24 Horas
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",Canal 24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 3 Biar
-http://217.76.154.142:8080/hls/canal3.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 4 Mallorca
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/d3/d1/cc/d3d1cc74-d34f-c41a-f719-0468edc360a6/source/512x512bb.jpg",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 4 Catalunya
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/d3/d1/cc/d3d1cc74-d34f-c41a-f719-0468edc360a6/source/512x512bb.jpg",Canal 4 Catalunya
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 4 Mancha Centro
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",7 TeleValencia
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://7televalencia.com/wp-content/uploads/2020/01/7televalencia-home-logo.jpg",7 TeleValencia
 https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 10 Empordà
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://restaurantgrop.cat/wp-content/uploads/2020/10/logo-canal-10-emporda.png",Canal 10 Empordà
 http://ventdelnord.tv:8080/escala/directe.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="" ,Canal 24 Horas Canarias
-https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 24 Horas Catalunya
-https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 25 TV (Barbastro)
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/Canal-25-TV-de-Barbastro-y-el-Somontano-en-directo.png",Canal 25 TV
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 33 Madrid[Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/Canal-33-Madrid-en-directo-gratis-%E2%80%A2-Diretele-La-TV-de-Espana-Gratis.png",Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 56[Not 24/7]
+#EXTINF:-1 group-title="TDT España" tvg-logo="https://canal56.com/wp-content/uploads/2020/06/canal56online.png",Canal 56
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="",Canal 2000 La Solana
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
@@ -457,8 +445,6 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="",TeleGilena
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
-#EXTINF:-1 group-title="TDT España" tvg-logo="",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="",Teleonuba
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 #EXTINF:-1 group-title="TDT España" tvg-logo="",TeleRibera
