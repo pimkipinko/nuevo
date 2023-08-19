@@ -196,7 +196,7 @@ http://legendstv.com.mx:80/Nicolay@022/Nico@0223/227078.ts
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png",Alcance TV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 group-title="Deportes y TV  MEXICO tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png",AMX Noticias
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87639g.png",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
@@ -276,9 +276,9 @@ https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 #EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg",TV Mar Puerto Vallarta
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-#EXTINF:-1 group-title="Deportes y TV  MEXICO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/1200px-TV%2B_%282018%29.png",TVMás
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/1200px-TV%2B_%282018%29.png",TVMás
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 group-title="Deportes y TV  MEXICO tvg-logo="",TV Migrante
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="",TV Migrante
 https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="",TVP Mazatlán
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
