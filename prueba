@@ -83,6 +83,326 @@ http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:-1 group-title="Deportes Brasil" tvg-logo="https://i.ibb.co/0CZV7Sx/SPORTV.png", SPORTV
 http://xcui.vitvabc.xyz:8880/287994016291/287994016291/16753
 
+
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png",FOX SPORTS 1
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35274.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png",FOX SPORTS 2
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35275.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png",FOX SPORTS 3
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35277.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-Fox-Sports-premium.png",FOX SPORTS premium
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35277.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png",ESPN SPORT 1
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35263.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png",ESPN SPORT 2
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35253.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png",ESPN SPORT 3
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35255.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-adrenalina-sports-network.png",ADRENALINA
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35218.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png",TUDN EXTRA
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35313.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-TUDN.png",TUDN
+http://kiubo.biz:80/Nicolay@022/Nico@0223/35312.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png",TUDN(USA)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/35313.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-SKY-sports.png",SKY SPORTS
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125930.ts
+
+
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png",HBO 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102374.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png",HBO +
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102376.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png",HBO Xtreme
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102382.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png",HBO Mundi
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102379.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png",HBO POP
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102380.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png",HBO signature
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102381.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png",Cinecanal
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102356.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos2/-CINEMAX.png",Cinemax
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102358.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-claro-cinema.png",Claro Cinema
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102360.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png",Golden EDGE
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102373.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png",Golden Premier
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102372.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-golden.png",Golden
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102369.ts  
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-space.png",Space
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125932.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-universal-cinema.png",universal cinema
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102392.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-universal-reality.png",universal reality
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102398.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-universal-premier.png",universal premier
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102397.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-paramount.png",Paramount+
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/171909.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-AMC.png",AMC
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102171.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-FX.png",FX
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40727.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-warner.png",WARNER
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125949.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png",TNT SERIES
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/125938.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-SYFY.png",SYFY
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102389.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-sony.png",SONY
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40734.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png",Discovery H&H
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102118.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png",Discovery Theater
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102121.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png",Discovery World
+http://kiubo.biz:80/Nicolay@022/Nico@0223/102123.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="http://descargas.podzone.net/logos/-el-gourmet.png",El Gourmet
+http://kiubo.biz:80/Nicolay@022/Nico@0223/102124.ts 
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ivw4nsgyq3zy1zatwrw40/natgeowild.png?rlkey=alayr8s0kxy5tty49fh7e7hxw&dl=0",Nat Geo wild
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/102132.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyY1OJ1KwvaKIZNE3Ekj07A-6q_-ZJftytyw&usqp=CAU",imagen tv
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/135400.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ebZNM5sbaGtcrfprkRwrI0COB3eIsEwtdQ&usqp=CAU",Multi-medios 
+http://kiubo.biz:80/Nicolay@022/Nico@0223/135402.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTieKN2fzPVR5Lr7AQ4JxaE8OwClx0r6hhvsQ&usqp=CAU",DISTRITO COMEDIA 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/40724
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbsWpHykrsL4ceiKJmjHNTPlkKAX06H-e2A&usqp=CAU",FORO TV 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111321.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWGA6D_Pa7ryL0HnGXUYsRbCicmM3FFpyUw&usqp=CAU",MILENIO TV 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111322.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOvMDS00260_JUsGIHbIDT-42TEKunphcTg&usqp=CAU",adn 40
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/111316.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/an/hDuaRnCSoKk/3054468548599380034_mq.jpg?v=62acd45e",la casa de los famosos 
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/225364.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/an/hDuaRnCSoKk/3054468548599380034_mq.jpg?v=62acd45e",la casa de los famosos(galas)
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/227079.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/an/hDuaRnCSoKk/3054468548599380034_mq.jpg?v=62acd45e",la casa de los famosos/sala
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/225366.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/an/hDuaRnCSoKk/3054468548599380034_mq.jpg?v=62acd45e",la casa de los famosos/dorm cielo
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/225367.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/an/hDuaRnCSoKk/3054468548599380034_mq.jpg?v=62acd45e",la casa de los famosos/dorm infierno
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/227083.ts
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/an/hDuaRnCSoKk/3054468548599380034_mq.jpg?v=62acd45e",la casa de los famosos/baños
+http://legendstv.com.mx:80/Nicolay@022/Nico@0223/227078.ts
+
+
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://image.roku.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-04-at-11.04.47-AM.png",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png",Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87639g.png",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://b15.com.mx/static/b15/static/img/canal_b15_fresnillo.png",B15
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png",Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png",Canal 26 Aguascalientes
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/12/c1/1712c151-6e54-84d7-4da7-32ab638885b9/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/1200x630wa.png",Canal 44 Chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png",Canal del Congreso 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png",Canal del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png",Canal del Congreso 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://www.elespectador.com/resizer/nl-rsmJcADKmiNEUmaQiHAat1SA=/arc-anglerfish-arc2-prod-elespectador/public/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/03/Cartoon-Network-s%C3%ADmbolo.jpg",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://expresatv.com.mx/wp-content/uploads/2023/04/DISENO-banner-bere.jpg",Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Foro-TV-en-directo-Online-1.png",Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://www.ilce.edu.mx/images/home/ILCETV.png",Canal 15 ILCE
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://imryt.org/wp-content/themes/imrytv2/images/logo-imryt-negro.png",IMRyT
+https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://www.cijc.org/es/newsletters/NovedadesArchivo/3626d49a5e434361b8eb122489c8ce98636983655181769832.jpg",Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://accionesale.files.wordpress.com/2013/10/tv-mexiquense.jpeg",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://4.bp.blogspot.com/-rxYs0_ytObA/W9RjuT9zwfI/AAAAAAAADy4/k223zeEJEZ81f_Sz5HOd3Z7WL3lefmJWACPcBGAYYCw/w1200-h630-p-k-no-nu/monte-maria.jpg",Monte Maria
+https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial2.png",Noticias Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://noticiasnrt.com/wp-content/uploads/2022/01/NRT-Retina.png",NRT México Canal 4
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/e7c23daa31d612a50aa2a5c6149839e0.png",Presumiendo México
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/3e1747981aaf292611e7fe356ffbf03e.png",RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://rtg.com.mx/wp-content/uploads/2023/02/PortadaInicio_PaginaWeb.jpg",RTG
+https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/a7cbecd1ea518bcf4f19a2d3826cff84.png",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://img.lajornadamaya.mx/sqcs.jpg",SQCS Canal
+https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12.1-Colima-en-vivo-Online.png",Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://www.prensario.net/Multimedios/imgs/55254_750.jpg",TeleFórmula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://telemarcampeche.com/wp-content/uploads/2022/06/logo-TELEMAR-big-e1656646541986.png",Telemar Campeche
+https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/307d217de9a5ab9607a4dd57aba22599.png",Teleplay Sureste
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/650655e93128d58811d51cd25e5453d5.png",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://images.produ.com/fotos/0119/hp-Turistik.jpg",Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/6923b601da7aec626264ba63bcaeba5f.png",TV Cuatro 4.1
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online.png",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="",TV Guanajuato
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://tvindependencia.com/envivo/images/logo-TvIndeSin-Logo.png",TV Independencia
+https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/60758a2e7e05e1d602810166ed1420f4.png",TV Lobo Durango
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://tvmar.s3.us-west-2.amazonaws.com/2023/04/meta.jpg",TV Mar La Paz
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg",TV Mar Los Cabos
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg",TV Mar Puerto Vallarta
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/1200px-TV%2B_%282018%29.png",TVMás
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO tvg-logo="",TV Migrante
+https://s6.mexside.net:1936/migrantetv/migrantetv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png",TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png",TVP Obregón
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/QM6VMQcGYF.png",Ultra TV Puebla
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://static.wixstatic.com/media/3b9c3c_3db9d3835d824a138e68cd6e8db42d8c~mv2.png/v1/fill/w_360,h_146,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VB%20MEDIA%202023.png",VB Media TV (1080p)
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/888a23d/2147483647/strip/true/crop/1300x731+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Ff3%2Feb%2Ffec5e5934874b128cb6bae21cd5e%2Fvix-la-plataforma-de-streaming-gratis.jpg",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/GrandesParejas_SamsungTVPlus_PartnerAssets_Circle_1000x1000.png",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png",Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Capital-21-TV-en-vivo.png",Telemax
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="",IERTBCS Canal 8 La Paz
+https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="",El 15 TV
+https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/640px-Logotipo_de_TV_Azteca.png",TV Azteca Noroeste
+https://live.info7.mx/info7/stream.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://efacico.files.wordpress.com/2018/01/tvmas.png",TVMÁS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Le%C3%B3n-en-vivo-Online.png",TV Nuevo León Canal 28
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/vi/kENh3czae1Q/maxresdefault.jpg",SET Televisión Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i.ytimg.com/vi/P-DsNRqke0A/maxresdefault.jpg",SET Televisión Canal 26.2
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/13/cf/9e/13cf9eb5-7c62-f2c7-bde0-efeee4e653b4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",15tv Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1200px-Logo_Canal_14_M%C3%A9xico.svg.png",Canal Catorce
+https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Diez-Chiapas-en-vivo-Online.png",Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://1.bp.blogspot.com/-pN5b3PWsyKg/XyIKz7ku74I/AAAAAAAAKn8/uOFYO4n-EcwMvAZveVccycUXJmDke3OjgCLcBGAsYHQ/s1600/espana-tv28.png",Señal España
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/f6/11/95f61108-f118-2521-a37b-bfbc70741d8a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",SIZART Canal 24
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/640px-Las_Estrellas_logo_%282016%29.svg.png",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/34/2d/fd/342dfd83-1f93-6bce-5105-de5b0a49b96d/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/1200x630wa.png",UMTV
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://imgx.fubo.tv/station_logos/estrella-games_m.png",Estrella Games
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://canvas-bridge02.tubitv.com/VoMMUc_9BCqDnZsBubLmtwU-2yQ=/400x574/smart/img.adrise.tv/f725f8b2-df97-4334-a835-6de89475b912.png",Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Aguascalientes
+https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Ciudad Juarez
+https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Del Bajio
+https://ythls.onrender.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Del Golfo
+https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa EDO MEX
+https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Guadalajara
+https://ythls.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Guerrero
+https://ythls.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Laguna
+https://ythls.onrender.com/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Mexicali
+https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Monterrey
+https://ythls.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Morelos
+https://ythls.onrender.com/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Noreste
+https://ythls.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Piedras Negras
+https://ythls.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Puebla
+https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Querétaro
+https://ythls.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa San Luis Potosi
+https://ythls.onrender.com/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Sinaloa
+https://ythls.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Sonora
+https://ythls.onrender.com/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Veracruz
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Zacatecas
+https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Tijuana
+https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png",Televisa Ensenada
+https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
+
+
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/8633b98f64d70ee6a2758710bbe1662e.png", Canal 4 Saltillo
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/3e9f1ea06075f52f17c396ff5cccfec6.png", Jalisco TV
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/17d27a5425fe2886aaa86e6350fab481.png", SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/2a17d47eaeaa1669aa46af0eab75ae94.png", Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Deportes y TV  MEXICO" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png",BT Sportss ESPN FHD
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=2123&extension=ts&play_token=duMX7lgrg
 #EXTINF:-1,group-title="Deportes Reino Unido" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png",Sky Sports Main Event FHD
