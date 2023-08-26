@@ -842,3 +842,134 @@ https://ythls.onrender.com/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
 
 #EXTINF:-1 group-title="Guinea Ecuatorial TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/4d/24/fa4d2425-177f-fbd5-b0de-5c9095b9dfa4/pr_source.jpg/1200x600wa.png", TVGE
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+
+
+
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/2HZW3E2.png", EnerGeek Retro
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png", EnerGeek Radio TV
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-2023.png", Fanpop TV
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/WzKFh03.png", CCP Radio
+https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://cdn.energeek.cl/imgs/canales/dreikotv-2.png", Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation TV
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://neotv.cl/img/animaxr.png", Animax Revival
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://cdn.energeek.cl/imgs/canales/latinokids.png", Latino Kids TV
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/s71A8ya.jpg", VariedTV 
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://neotv.cl/img/MaximaTV.png", Maxima TV
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/RUuoMlL.png", Canal LMS
+https://xhateaec.com:8800/hls/luisms123/luisms123/3a284573bc0e0e0f0f9a521d86a4f393/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://cdn.energeek.cl/imgs/canales/ACSNetwork.png", ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://cdn.energeek.cl/imgs/canales/Gogoplay.png", Gogoplay TV
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.paste.pics/ac458f828b6eb862c9842d8a114db060.png", Spectrum Channel
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg", POP TV
+https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png", Lim TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://neotv.cl/img/CMT.png", CMT Argentina
+https://streaming.zappix.live:3960/hybrid/play.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://neotv.cl/img/CMT.png", TBS Sur
+https://streaming.zappix.live:3759/live/tbsfeedsurlive.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://neotv.cl/img/CMT.png", TBS Panregional
+https://streaming.zappix.live:3962/live/tbsfeedpanlive.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/qhLnq2W.png" VoiceOver Radio CR
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/Wct9jsp.png", Moni TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/wb0McnW.png", Maxima Radio
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/TpXhG0Z.png", Subela Radio
+https://mdstrm.com/live-stream-playlist/5fad9b1d978fe1080e3ac4a8.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/J3PwDyP.jpg", PlanetaTV Peliculas
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/SpnLGeM.jpg", Canal 2 San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/7afuOiE.png", BayresTV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/mXpId1b.jpg", GenTV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/kD5NVHV.png", MasFM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/S0k40t9.png", Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/Qv6osfr.png", TeleMAX
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/u1POdfC.png", El 3 de Conce
+https://oracle.streaminghd.cl/8016/8016/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/f7sStl7.png", La Granja TV
+https://oracle.streaminghd.cl/8126/8126/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/NFsGbwY.png", PichilemuTV
+https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/bBkw36s.png", XabardiTV
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.paste.pics/744c8dc0a1dfd1f42f8a6facae3333c2.png", Telezion
+https://paneltv.net:3751/hybrid/play.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", RetroPlay TV
+https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png"", Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2021/12/logo-296x300.jpg", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png", Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/dHpRNM5.png", UCV Televisión
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/KjPjyJH.png", UCV Eventos
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png", NeoTV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/q4huhhn.jpg", Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/XZdEZdO.jpg", Exprezion TV
+https://vdochile.com:3774/live/cnrhiawklive.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/d7JL1V4.jpg", AM CANAL
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/unjmAAr.jpg", RadioZ
+https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/w1jK0n7.png", NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/ZN3ry2f.png", PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", RetroPlus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/MzuTLkz.png", Canal6
+https://panel.dattalive.com/8166/8166/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/zyCB7Xv.png", Vision PLUS TV
+https://v2.tustreaming.cl/visionplustv/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/k8hx0C6.png", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/m0EKIcj.jpg", CarolinaTV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/iXu7oAP.png", CarolinaTV2
+https://jireh-3-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/hg4u8oo.jpg", ZIZATV
+https://v2.tustreaming.cl/zizatv/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/VcUGjps.png", SATIVATV
+https://5ff3d9babae13.streamlock.net/8006/8006/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/Pkol1cd.png", RCKTV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://logo.vconline.cl/ruidostv.png", RUIDOS TV
+https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/JXyvmnQ.png", DanceFM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", RetroPlayTV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/CFUSpht.png", WAPP
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/6046495ddf98b007fa2fe807/publish/media_1000.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/0o47wDU.jpg", AmericaTV CHILE
+https://v2.tustreaming.cl/radioamericatv/index.m3u8
+#EXTINF:-1  group-title="El revoltijo de Moises" tvg-logo="https://i.imgur.com/ES5J1js.jpg", Contivision
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8
