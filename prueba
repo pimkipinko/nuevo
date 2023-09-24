@@ -748,7 +748,7 @@ https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTINF:-1 group-title="Deportes y TV Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 group-title="Argentina TV" tvg-logo="https://latinartv.com/sites/default/files/logos/-x-2Fhk6_400x400_1.jpg",TeleCinco Trelew
+#EXTINF:-1 group-title="Deportes y TV Argentina" tvg-logo="https://latinartv.com/sites/default/files/logos/-x-2Fhk6_400x400_1.jpg",TeleCinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 group-title="Deportes y TV Argentina" tvg-logo="https://storage.googleapis.com/diariodemocracia/cache/2c/58/d4b9687cbbcf11e6bfd5bebb6c73c523.png",TeleJunín
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
