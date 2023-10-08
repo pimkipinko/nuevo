@@ -2,45 +2,13 @@
 
 #EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 1
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 2
-http://313131368186321449.of913.xyz:80/play/HCMNP577MK/1470603756/321449.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 3
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 4
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298810
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 5
-http://313131368186441852.of913.xyz:80/play/HCMNP577MK/1470603756/441852.ts
-#EXTINF:0 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 6
-http://95099966756321449.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321449.ts
-#EXTINF:-1,group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV 7
-http://313131368186321449.of913.xyz:80/play/HCMNP577MK/1470603756/321449.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-scaled.jpg", ONETORO TV HD
-http://313131368186441851.of913.xyz:80/play/HCMNP577MK/1470603756/441851.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE FHD
-http://972117231136321445.opword.xyz:80/play/vi1012896/5352893835/321445.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE FHD(OPCION 2)
-http://313131368186321445.of913.xyz:80/play/HCMNP577MK/1470603756/321445.ts
-#EXTINF:-1, group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE HD
-http://313131368186321446.of913.xyz:80/play/HCMNP577MK/1470603756/321446.ts
-#EXTINF:-1 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE HD
-(2)
-http://972117231136321446.opword.xyz:80/play/vi1012896/5352893835/321446.ts
-#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD
-http://95099966756321445.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321445.ts
-#EXTINF:0 group-title="Toros TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png",TOROLE SD(2)
-http://95099966756321446.nice511.xyz:80/play/GTCDNR9DW5/3625821374/321446.ts
+
 #EXTINF:-1 group-title="Toros TV" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg",CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
-
-
-#EXTINF:0 group-title="CHAMPIONS LEAGUE" tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2018/05/21/667339.jpg",M. L. CAMPEONES
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2800
-#EXTINF:0 group-title="CHAMPIONS LEAGUE" tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2018/05/21/667339.jpg",M. L. CAMPEONES (Opc 2)
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/2692
-#EXTINF:0 group-title="CHAMPIONS LEAGUE" tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2018/05/21/667339.jpg",M. L. CAMPEONES 2
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/81096
-#EXTINF:0 group-title="CHAMPIONS LEAGUE" tvg-logo="https://imagenes.20minutos.es/files/image_654_369/uploads/imagenes/2018/05/21/667339.jpg",M. L. CAMPEONES 3
-http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298805
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/canal-sur-logo-png-transparent.png",Canal Sur Andalucía
+https://ythls.onrender.com/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
+#EXTINF:-1 group-title="Toros TV" tvg-logo="https://1.bp.blogspot.com/-beiOdPUxmPo/Xja8VTN4hnI/AAAAAAAAQSo/D9-UsC6omCc2N3y49Mclq6OWG7Ez8UuOgCLcBGAsYHQ/w1200-h630-p-k-no-nu/canal%2B2%2Bandalucia.jpg",Canal Sur Andalucía 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 
 
